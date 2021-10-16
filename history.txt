@@ -1,0 +1,1000 @@
+  248  python3 -m unittest tests/test_main.py
+  249  wtc-lms add_comment nine_cool_left_mix "Your code passes all the tests, I am just concerned about the Resources Warning. Please take it up with your mentor."
+  250  wtc-lms add_comment nine-cool-left-mix "Your code passes all the tests, I am just concerned about the Resources Warning. Please take it up with your mentor."
+  251  wtc-lms grade_review nine-cool-left-mix 7
+  252  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/uppity-lethal-wet-trash_submission_001-hangman_grading/hangman.py
+  253  wtc-lms modules
+  254  wtc-lms start rigid-rare-tell
+  255  cd submission_001-hangman/
+  256  git status
+  257  git add hangman.py
+  258  git commit -m "Iterartion 1"
+  259  git push
+  260  wtc-lms grade rigid-rare-tell
+  261  wtc-lms history rigid-rare-tell
+  262  clear
+  263  git status
+  264  cd
+  265  git status
+  266  ls
+  267  cd student_work/
+  268  ls
+  269  cd submission_001-hangman/
+  270  git status
+  271  git add hangman.py 
+  272  git commit -m "Iteration 1"
+  273  git push
+  274  wtc-lms grade rigid-rare-tell
+  275  wtc-lms history rigid-rare-tell
+  276  wtc-lms reviews
+  277  wtc-lms accept green-madly-cute-bed
+  278  git clone git@gitlab.wethinkcode.co.za:root/dusty-white-laugh_submission_001-hangman_grading.git
+  279  ls
+  280  cd dusty-white-laugh_submission_001-hangman_grading/
+  281  cd
+  282  cd student_work/
+  283  cd problems
+  284  cd dusty-white-laugh_submission_001-hangman_grading/
+  285  python3 -m unittest tests/test_main.py
+  286  wtc-lms add_comment "Your code works perfectly, congrats but I see a couple of concerns, please take it up with your mentor."
+  287  wtc-lms add_comment dusty-white-laugh "Your code works perfectly, congrats but I see a couple of concerns, please take it up with your mentor."
+  288  cd
+  289  wtc-lms reviews
+  290  wtc-lms add_comment green-madly-cute-bed "Your code works perfectly, congrats but I see a couple of concerns, please take it up with your mentor."
+  291  wtc-lms grade green-madly-cute-bed 8
+  292  wtc-lms grade_review green-madly-cute-bed 8
+  293  wtc-lms review_details green-madly-cute-bed
+  294  wtc-lms accept nine-cool-left-mix
+  295  git clone git@gitlab.wethinkcode.co.za:root/dusty-dirty-snotty-taste_submission_001-hangman_grading.git
+  296  wtc-lms review details nine-cool-left-mix
+  297  wtc-lms review_details nine-cool-left-mix
+  298  wtc-lms accept tough-slimy-desk
+  299  wtc-lms accept tough-slimy-green-desk
+  300  git clone git@gitlab.wethinkcode.co.za:root/uppity-lethal-wet-trash_submission_001-hangman_grading.git
+  301  cd student_work/
+  302  cd problems/
+  303  ls
+  304  cd uppity-lethal-wet-trash_submission_001-hangman_grading/
+  305  python3 -m unittest tests/test_main.py
+  306  wtc-lms add_comment tough-slimy-green-desk "Your code runs perfectly, well done. "
+  307  wtc-lms grade_review tough-slimy-green-desk 10
+  308  cd
+  309  wtc-lms history rigid-rare-tell
+  310  wtc-lms review_details tough-slimy-green-desk
+  311  wtc-lms rigid-rare-tell
+  312  wtc-lms login
+  313  wtc-lms history rigid-rare-tell
+  314  wtc-lms login
+  315  git status 
+  316  cd student_work/
+  317  git status
+  318  ls
+  319  cd submission_001-hangman/
+  320  cd ..
+  321  git push
+  322  git
+  323  python3 
+  324  python3
+  325  python3 
+  326  wtc-lms login 
+  327  wtc-lms history rigih-rare-tell
+  328  wtc-lms history rigid-rare-tell
+  329  /bin/python3 "/home/cleopathrambalivilakazi/play/def fun():.py"
+  330  sudo snap install slack --classic
+  331  sudo pop install slack --classic
+  332  python3
+  333  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  334  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  335  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  336  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  337  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  338  python3 -m unittest tests/test_main.py
+  339  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  340  python3 -m unittest tests/test_main.py
+  341  clear
+  342  python3 -m unittest tests/test_main.py
+  343  clear
+  344  python3 -m unittest tests/test_main.py
+  345  clear
+  346  python3 -m unittest tests/test_main.py
+  347  clear
+  348  python3 -m unittest tests/test_main.py
+  349  clear
+  350  python3 -m unittest tests/test_main.py
+  351  clear
+  352  python3 -m unittest tests/test_main.py
+  353  python3 -m unittest tests/test_main.py
+  354  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  355  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  356  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  357  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  358  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  359  wtc-lms login
+  360  wtc-lms start nosy-silky-drag
+  361  git clone git@gitlab.wethinkcode.co.za:mmnisi021/submission_001-hangman-conditional.git
+  362  cd student_work/
+  363  dir
+  364  cd submission_001-hangman-conditional
+  365  git status
+  366  git hangman.py
+  367  git add hangman.py
+  368  git commit -m "Iteration 2"
+  369  git push
+  370  wtc-lms login
+  371  wtc-lms grade nosy-silky-drag
+  372  wtc-lms history nosy-silky-drag
+  373  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  374  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  375  clear
+  376  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  377  python3 -m unittest tests/test_main.py
+  378  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  379  python3 -m unittest tests/test_main.py
+  380  wtc-lms login
+  381  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-hangman-conditional/hangman.py
+  382  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/savory-torpid-easy-will_submission_001-hangman-conditional_grading/hangman.py
+  383  python3 -m unittest tests/test_main.py
+  384  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/savory-torpid-easy-will_submission_001-hangman-conditional_grading/hangman.py
+  385  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  386  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  387  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  388  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Please pay attention to that the next time, but job well done."
+  389  "
+  390  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  391  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Please pay attention to that the next time, but job well done."
+  392  g
+  393  "
+  394  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  395  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Please pay attention to that next time. Job well Done."
+  396  "
+  397  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that." Please pay attention to that the next time, but job well done."
+  398  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Pay attention to that next time. Job well Done."
+  399  h
+  400  "
+  401  wtc-lms add_comment round-soilid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Pay attention to that the next time, but job well done."
+  402  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/shaggy-silent-brown-simple_submission_001-hangman-conditional_grading/hangman.py
+  403  python3 -m unittest tests/test_main.py
+  404  /bin/python3 "/home/cleopathrambalivilakazi/Documents/hello/msg = "Hello World".py"
+  405  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/shaggy-silent-brown-simple_submission_001-hangman-conditional_grading/test.py
+  406  python3
+  407  wtc-lms reviews
+  408  wtc-lms accept round-solid-lame-red
+  409  git clone git@gitlab.wethinkcode.co.za:root/savory-torpid-easy-will_submission_001-hangman-conditional_grading.git
+  410  wtc-lms review_details round-solid-lame-red
+  411  wtc-lms accept rapid-oafish-free-battle
+  412  wtc-lms reviews
+  413  wtc-lms add_comment round-soilid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Pay attention to that the next time, but job well done."
+  414  wtc-lms add_comment round-solid-lame-red "Your code works perfectly, however you seem to return your input function where as you were supposed to return another file with a set of words in case the user opted for it, your code does not do that. Pay attention to that the next time, but job well done."
+  415  wtc-lms grade_review round-solid-lame-red 8
+  416  wtc-lms accept round-tiny-abrupt-strain
+  417  cd student_work/
+  418  cd problems/
+  419  git clone git@gitlab.wethinkcode.co.za:root/shaggy-silent-brown-simple_submission_001-hangman-conditional_grading.git
+  420  wtc-lms review_details round-tiny-abrupt-stain
+  421  wtc-lms review_details round-tiny-abrupt-strain
+  422  cd
+  423  wtc-lms add_comment round-tiny-abrupt-strain "Your Code runs as expected and passes all the tests.My only concern is that I do not see where you included your alternative file, but either than that job well done."
+  424  wtc-lms grade_review round-tiny-abrupt-strain 9
+  425  wtc-lms accept weak-white-female-slice
+  426  cd student_work/
+  427  cd problems/
+  428  git clone git@gitlab.wethinkcode.co.za:root/zesty-bad-grey-deep_submission_001-hangman-conditional_grading.git
+  429  wtc-lms review_details weak-white-female-slice
+  430  wtc-lms accept sleepy-modern-needy-count
+  431  wtc-lms login
+  432  wtc-lms accept sleepy-modern-needy-count
+  433  wtc-lms start nosy-silky-drag
+  434  wtc-lms history nosy-silky-drag
+  435  wtc-lms login
+  436  wtc-lms history nosy-silky-drag
+  437  cd
+  438  ls
+  439  cd Downloads
+  440  ls
+  441  cd WebStorm-212.5284.41/
+  442  ls
+  443  cd bin
+  444  ./webstorm.sh
+  445  clear
+  446  cd
+  447  /usr/local/lib/nodejs
+  448  cd
+  449  ls
+  450  cd Downloads
+  451  /usr/local/lib/nodejs
+  452  ls
+  453  cd node-v14.17.6/
+  454  /usr/local/lib/nodejs
+  455  sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/node /usr/bin/node
+  456  sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/npm /usr/bin/npm
+  457  sudo ln -s /usr/local/lib/nodejs/node-$VERSION-$DISTRO/bin/npx /usr/bin/npx
+  458  cd
+  459  sudo apt instal nodejs
+  460  sudo apt install nodejs
+  461  node -v
+  462  sudo apt install npm
+  463  npx create-react-app my-app
+  464  sudo apt update
+  465  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash
+  466  sudo apt-get install -y nodejs
+  467  node -v
+  468  sudo dpkg -i --force-overwrite /usr/bin/dpkg
+  469  sudo dpkg -i --force-overwrite /var/cache/apt/archives/nodejs_14.17.6-deb-1nodesource1_amd64.deb
+  470  sudo apt-get -f install
+  471  node -v
+  472  npm -v
+  473  npx create-react-app my-app
+  474  yarn create react-app my-app
+  475  sudo apt install cmdtest
+  476  yarn create react-app my-app
+  477  yarn create-react-app my-app
+  478  yarn create react-app my-app
+  479  yarn -v
+  480  npm init  react-app my-app
+  481  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/zesty-bad-grey-deep_submission_001-hangman-conditional_grading/hangman.py
+  482  python3 -m unittest tests/test_main.py
+  483  wtc-lms add_comment weak-white-female-slice "Your code passes all the tests, the only flaw that I saw was the file that was not available, but either than that, well done."
+  484  wtc-lms grade_review weak-white-female-slice 8
+  485  wtc-lms history nosy-silky-drag
+  486  cd my-app
+  487  npm start
+  488  rm -f *
+  489  ls
+  490  cd src
+  491  rm -f *
+  492  touch index.css
+  493  ls
+  494  touch index.js
+  495  ls
+  496  cd index.js
+  497  cd ..
+  498  npm start
+  499  import React from "react"
+  500  npm start
+  501  cd
+  502  npm install
+  503  npm cache clean --force
+  504  npm install -g npm
+  505  npm install
+  506  ls
+  507  npm start
+  508  cd my-app
+  509  npm start
+  510  npm start
+  511  cd
+  512  npm start
+  513  /bin/python3 "/home/cleopathrambalivilakazi/~student_work/pyramid/test 1.py"
+  514  cd my-app/
+  515  npm start
+  516  cd src
+  517  npm start
+  518  cd
+  519  npm start
+  520  cd my-app/
+  521  npm start
+  522  cd
+  523  npx create-react-app my-app
+  524  clear
+  525  wtc-lms login 
+  526  wtc-lms start raspy-need-sign
+  527  wtc-lms start raspy-neat-sign
+  528  cd student_work/
+  529  git clone git@gitlab.wethinkcode.co.za:mmnisi021/submission_001-pyramids.git
+  530  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  531  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  532  python3 -m unittest tests/test_main.py
+  533  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  534  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  535  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  536  /bin/python3
+  537  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  538  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  539  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  540  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  541  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  542  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  543  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  544  clear
+  545  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  546  5
+  547  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  548  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  549  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  550  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  551  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  552  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  553  5
+  554  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  555  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  556  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  557  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  558  ~~~~~/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  559  5
+  560  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  561  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  562  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  563  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  564  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  565  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  566  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  567  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  568  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  569  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  570  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  571  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  572  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  573  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  574  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  575  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  576  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  577  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  578  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  579  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  580  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  581  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  582  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  583  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py5
+  584  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  585  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  586  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  587  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  588  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  589  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  590  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  591  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  592  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  593  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  594  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  595  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  596  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  597  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  598  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  599  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  600  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  601  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  602  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  603  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  604  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  605  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  606  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  607  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  608  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  609  python3 -m unittest tests.test_main.MyTestCase.test_step6
+  610  python3 -m unittest tests.test_main.MyTestCase.test_step7
+  611  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  612  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  613  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  614  c
+  615  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  616  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  617  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  618  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  619  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  620  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  621  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  622  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  623  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  624  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  625  python3 -m unittest tests/test_main.py
+  626  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  627  python3
+  628  python3 -m unittest tests/test_main.py
+  629  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  630  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  631  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  632  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  633  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  634  clear
+  635  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  636  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  637  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  638  python3 -m unittest tests/test_main.py
+  639  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/draw.py
+  640  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  641  /bin/python3
+  642  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  643  y/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  644  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  645  y
+  646  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  647  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  648  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py5
+  649  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-pyramids/g.py
+  650  wtc-lms login
+  651  wtc-lms review-details raven-kidly-nice-result
+  652  wtc-lms review_details raven-kidly-nice-result
+  653  wtc-lms review_details craven-kidly-nice-result
+  654  wtc-lms review_details craven-kindly-nice-result
+  655  cd student_work/
+  656  cd problems/
+  657  git@gitlab.wethinkcode.co.za:root/whole-lame-better-break_submission_001-pyramids_grading.git
+  658  git clone git@gitlab.wethinkcode.co.za:root/whole-lame-better-break_submission_001-pyramids_grading.git
+  659  git clone git@gitlab.wethinkcode.co.za/whole-lame-better-break_submissions_001-pyramids_grading.git
+  660  git clone git@gitlab.wethinkcode.co.za:root/whole-lame-better-break_submissions_001-pyramids_grading.git
+  661  git clone git@gitlab.wethinkcode.co.za:root/whole-lame-better-break_submission_001-pyramids_grading.git
+  662  wtc-lms review_details smart-milky-shrill-fix
+  663  wtc-lms review_details clear-mellow-zany-theory
+  664  wtc-lms add_comment clear-mellow-zany-theory "Your code is easy to understand and passes all the prerequsiites, that takes skill. Job well done."
+  665  wtc-lms review_details smart-milky-shrill-fix
+  666  git clone git@gitlab.wethinkcode.co.za:root/marked-melted-mixed-leave_submission_001-pyramids_grading.git
+  667  wtc-lms grade_review clear-mellow-zany-theory 10
+  668  wtc-lms history raspy-neat-sign
+  669  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/marked-melted-mixed-leave_submission_001-pyramids_grading/draw.py
+  670  wtc-lms add_comment smart-skrily-fix "Good Job. I just wish you had done outlines for all the shapes and added more comments. 
+  671  "
+  672  python3 -m unittest tests/test_main.py
+  673  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  674  python3 -m unittest tests.test_main.MyTestCase.test_ste2
+  675  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  676  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  677  python3 -m unittest tests.test_main.MyTestCase.test_step3\4
+  678  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  679  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  680  wtc-lms add_comment smart-skrilly-fix "Good Job. I just wish you had done outlines for all the shapes and added more comments. 
+  681  "
+  682  wtc-lms add_comment smart-milky-shrill-fix "Good Job. I just wish you had done outlines for all the shapes and added more comments. 
+  683  "
+  684  wtc-lms grade_review smart-milky-shrill-fix 9
+  685  cd
+  686  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/hangman.py
+  687  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  688  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  689  wtc-lms add_comment smart-milky-shrill-fix "Good Job. I just wish you had done outlines for all the shapes and added more comments. /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  690  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  691  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  692  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  693  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  694  \/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  695  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  696  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  697  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  698  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  699  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.pyplace
+  700  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  701  place
+  702  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  703  clear
+  704  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  705  CLEAR
+  706  clear
+  707  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  708  clear
+  709  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  710  clear
+  711  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  712  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.pyplay
+  713  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  714  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  715  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  716  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.pyplay
+  717  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.pyplayenthusiastic
+  718  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.pyplay
+  719  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  720  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  721  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  722  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  723  /bin/python3
+  724  python3 -m unittest tests.test_main.MyTestCase.test_step6
+  725  python3 -m unittest tests.test_main.MyTestCase.test_step5
+  726  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  727  python3 -m unittest tests.test_main.py
+  728  python3 -m unittest tests/test_main.py
+  729  clear
+  730  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/g.py
+  731  python3 -m unittest tests/test_main.py
+  732  clear
+  733  python3 -m unittest tests/test_main.py
+  734  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/hangman.py
+  735  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-hangman-loops/hangman.py
+  736  python3 -m unittest tests/test_main.py
+  737  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  738  python3 -m unittest tests/test_main.py
+  739  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  740  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  741  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.pyword
+  742  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  743  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.pyword
+  744  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  745  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.pyplay
+  746  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  747  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.pyp
+  748  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  749  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  750  python3 -m unittest tests/test_main.py
+  751  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  752  python3 -m unittest tests/test_main.py
+  753  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/ek.py
+  754  python3 -m unittest tests/test_main.py
+  755  python3 -m unittest tests/test_main.py
+  756  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  757  python3 -m unittest tests/test_main.py
+  758  /bin/python3 /home/cleopathrambalivilakazi/submission_002-hangman-loops/hangman.py
+  759  cd ~/hangman3/
+  760  cd submission_002-hangman-loops/
+  761  git stats
+  762  git status
+  763  git add "hangman.py"
+  764  git commit -m "hangman3"
+  765  git push
+  766  wtc-lms login
+  767  git push
+  768  git status
+  769  wtc-lms login
+  770  wtc_lms grade pushy_icy_guy
+  771  wtc-lms grade pushy_icy_guy
+  772  wtc-lms grade pushy-icy-guy
+  773  wtc-lms history pushy-icy-guy
+  774  wtc-lms reviews
+  775  wtc-lms review_details uppity-three-free-scene
+  776  wtc-lms accept uppity-three-free-scene
+  777  cd ..
+  778  wtc-lms review_details uppity-three-free-scene
+  779  git@gitlab.wethinkcode.co.za:root/furry-zippy-hushed-move_submission_002-hangman-loops_grading.git
+  780  git clone git@gitlab.wethinkcode.co.za:root/furry-zippy-hushed-move_submission_002-hangman-loops_grading.git
+  781  wtc-lms accept tangy-same-gratis-estate
+  782  git clone git@gitlab.wethinkcode.co.za:root/furry-fixed-dull-food_submission_002-hangman-loops_grading.git
+  783  wtc-lms review_details tangy-same-gratis-estate
+  784  wtc-lms accept clear-oafish-scared-clock
+  785  git clone git@gitlab.wethinkcode.co.za:root/vulgar-third-closed-tune_submission_002-hangman-loops_grading.git
+  786  wtc-lms review-details clear-oafish-scared-clock.
+  787  wtc-lms review_details clear-oafish-scared-clock.
+  788  wtc-lms review_details clear-oafish-scared-clock
+  789  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  790  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  791  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  792  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  793  python3 -m unittest tests/test_main.py
+  794  /bin/python3 /home/cleopathrambalivilakazi/hangman3/vulgar-third-closed-tune_submission_002-hangman-loops_grading/hangman.py
+  795  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  796  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  797  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  798  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  799  python3 -m unittest tests/test_main.py
+  800  wtc-lms add_comment clear-oafish-scared-clock "Good job, you code is not complex yet, passes all the prerequisites. Job well done."
+  801  wtc-lms grade_review clear-oafish-scared-clock 10
+  802  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/whole-lame-better-break_submission_001-pyramids_grading/draw.py
+  803  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  804  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  805  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  806  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  807  python3 -m unittest tests/test_main.py
+  808  wtc-lms add_comment craven-kindly-nice-result "Good work, your code passes all your tests."
+  809  wtc-lms grade_review craven-kindly-nice-result 10
+  810  /bin/python3 /home/cleopathrambalivilakazi/hangman3/furry-zippy-hushed-move_submission_002-hangman-loops_grading/hangman.py
+  811  python3 -m unittest tests/test_main.py
+  812  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  813  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  814  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  815  python3 -m unittest tests.test_main.MyTestCase.test_step3\4
+  816  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  817  wtc-lms add_comment uppity-three-free-scene "Good work, Your code passes all the tests."
+  818  wtc-lms grade_review  uppity-three-free-scene 10
+  819  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py
+  820  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  821  python3 -m unittest tests/test_main.py
+  822  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  823  python3 -m unittest tests/test_main.py
+  824  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  825  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  826  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  827  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  828  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py
+  829  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  830  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  831  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py
+  832  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py
+  833  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/o.py
+  834  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  835  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  836  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  837  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  838  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  839  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  840  wtc-lms start gusty-giddy-size
+  841  wtc-lms login
+  842  wtc-lms start gusty-giddy-size
+  843  cd student_work/
+  844  cd problems/
+  845  git clone git@gitlab.wethinkcode.co.za:mmnisi021/submission_001-problem.git
+  846  dir
+  847  cd ..
+  848  dir
+  849  cd submission_001-problem/
+  850  code .
+  851  clear
+  852  python3
+  853  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  854  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  855  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  856  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  857  python3 -m unittest tests.test_main.MyTestCase.test_step3/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  858  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  859  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  860  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  861  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  862  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  863  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  864  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  865  python3 -m unittest tests.test_main.MyTestCase.test_step3/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  866  python3 -m unittest tests/test_main.py
+  867  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_001-problem/course.py
+  868  wtc-lms reviews
+  869  wtc-lms accept fresh-itchy-somber-invite
+  870  wtc-lms review_details fresh-itchy-somber-invite
+  871  cd ..
+  872  cd problems/
+  873  wtc-lms accept unused-ten-eager-alarm
+  874  wtc-lms accept misty-aware-tawdry-extent
+  875  wtc-lms reviews
+  876  wtc-lms accept obese-two-icky-craft
+  877  git clone git@gitlab.wethinkcode.co.za:root/faulty-black-bitter-title_submission_001-problem_grading.git
+  878  git clone git@gitlab.wethinkcode.co.za:root/melted-damp-loving-visit_submission_001-problem_grading.git
+  879  wtc-lms review_details obese-two-icky-craft
+  880  wtc-lms accept quiet-lavish-first-fact
+  881  wtc-lms review
+  882  wtc-lms reviews
+  883  wtc-lms accept craven-petite-cagey-bike
+  884  wtc-lms review_details craven-petite-cagey-bike
+  885  git clone git@gitlab.wethinkcode.co.za:root/eager-robust-absent-chain_submission_001-problem_grading.git
+  886  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/jmunga/course.py
+  887  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  888  python3 -m unittest tests.test_main.MyTestCase.test_step2
+  889  python3 -m unittest tests.test_main.MyTestCase.test_step3
+  890  python3 -m unittest tests.test_main.MyTestCase.test_step4
+  891  python3 -m unittest tests/test_main.py
+  892  wtc-lms add_comment craven-petite-cagey-bike "I loke how you sorted your status, it's unique. Job well done."
+  893  wtc-lms grade craven-petite-cagey-bike 10
+  894  wtc-lms grade_review craven-petite-cagey-bike 10
+  895  wtc-lms reviews
+  896  wtc-lms login
+  897  wtc-lms reviews
+  898  wtc-lms review_details obese-two-icky-craft
+  899  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py
+  900  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  901  python3 -m unittest tests.test_main.MyTestCase.test_step1
+  902  python3 -m unittest tests/test_main.py
+  903  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py
+  904  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  905  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+  906  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+  907  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+  908  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py4
+  909  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  910  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  911  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  912  python3 -m unittest tests/test_main.py
+  913  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py
+  914  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py5678
+  915  4658
+  916  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py5678
+  917  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/rough.py
+  918  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  919  python3 -m unittest tests/test_main.py
+  920  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  921  python3 -m unittest tests/test_main.py
+  922  node winning.js
+  923  -v nvm
+  924  command -v nvm
+  925  nvm ls -remote
+  926  nvm install node
+  927  nvm ls
+  928  node -V
+  929  node --version
+  930  npm -v
+  931  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  932  python3 -m unittest tests/test_main.py
+  933  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  934  python3 -m unittest tests/test_main.py
+  935  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  936  python3 -m unittest tests/test_main.p
+  937  python3 -m unittest tests/test_main.py
+  938  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  939  python3 -m unittest tests/test_main.py
+  940  python3 -m unittest tests/test_main.py/bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  941  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  942  python3 -m unittest tests/test_main.py
+  943  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  944  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  945  python3 -m unittest tests/test_main.py
+  946  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  947  wtc-lms login
+  948  git status
+  949  python3 -m unittest tests/test_main.py
+  950  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  951  python3 -m unittest tests/test_main.py
+  952  python3 -m unittest tests/test_main.py
+  953  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  954  python3 -m unittest tests/test_main.py
+  955  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  956  python3 -m unittest tests/test_main.py
+  957  /bin/python3 /home/cleopathrambalivilakazi/student_work/submission_002-mastermind/mastermind.py
+  958  git add mastermind.py
+  959  git commit -m "CodeBreaker"
+  960  python3 -m unittest tests/test_main.py
+  961  git push
+  962  wtc-lms grade dark-four-exam 
+  963  wtc-lms history dark-four-exam 
+  964  wtc-lms reviews
+  965  wtc-lms accept glib-cagey-lazy-kill
+  966  cd ..
+  967  cd problems
+  968  git clone git@gitlab.wethinkcode.co.za:root/blue-vague-seemly-animal_submission_002-mastermind_grading.git
+  969  wtc-lms review_details glib-cagey-lazy-kill
+  970  wtc-lms accept bawdy-swift-kaput-bunch
+  971  git clone git@gitlab.wethinkcode.co.za:root/dead-cute-uppity-lead_submission_002-mastermind_grading.git
+  972  wtc-lms review_details bawdy-swift-kaput-bunch
+  973  wtc-lms accept macho-hollow-versed-sector
+  974  git clone git@gitlab.wethinkcode.co.za:root/exotic-solid-hard-stop_submission_002-mastermind_grading.git
+  975  wtc-lms review_details macho-hollow-versed-sector
+  976  /bin/python3 /home/cleopathrambalivilakazi/student_work/problems/thesekon/mastermind.py
+  977  python3 -m unittest tests/test_main.py
+  978  wtc-lms add_review bawdy-swift-kaput-bunch "Your code runs as it should. Great job, Please add more comments next time." 
+  979  wtc-lms add_comment bawdy-swift-kaput-bunch "Your code runs as it should. Great job, Please add more comments next time." 
+  980  wtc-lms grade_review bawdy-swift-kaput-bunch 10 
+  981  wtc-lms add_comment glib-cage-crazy-kill "Your code runs as it should. Great job" 
+  982  wtc-lms add_comment glib-cage-crazy-kill "Your code runs as it should. Great job. A great feature would have been to see the code at the end if you run out of guesses. " 
+  983  wtc-lms add_comment glib-cagey-crazy-kill "Your code runs as it should. Great job. A great feature would have been to see the code at the end if you run out of guesses. " 
+  984  wtc-lms reviews
+  985  wtc-lms add_comment glib-cagey-lazy-kill "Your code runs as it should. Great job. A great feature would have been to see the code at the end if you run out of guesses. " 
+  986  wtc-lms grade_review glib-cagey-lazy-kill 10 
+  987  node run test.js
+  988  git config user.name "Mbali Cleopathra Mnisi"
+  989  mkdir git-basic-exercise
+  990  cd git-basic-exercise/
+  991  git config user.name "Mbali Cleopathra Mnisi"
+  992  git config user .name "Mbali Cleopathra Mnisi"
+  993  git --v
+  994  git -v
+  995  git -version
+  996  git --version
+  997  git config user.name "mbali clepathra mnisi"
+  998  git config user.name "cleovilakazi"
+  999  git config --global user.name "Mbali Cleopathra Mnisi"
+ 1000  git config --global user.email cleopathrastudies@gmail.com
+ 1001  ls -a
+ 1002  git init
+ 1003  git status
+ 1004  touch README.md
+ 1005  ls -a
+ 1006  git status
+ 1007  git log
+ 1008  git add
+ 1009  git add README.md .MD
+ 1010  git add README.md 
+ 1011  git commit -m "initial commit"
+ 1012  git log
+ 1013  nano README.md
+ 1014  cat README.md 
+ 1015  git status
+ 1016  git add README.md 
+ 1017  git commit -m "second commit"
+ 1018  nano README.md 
+ 1019  git add README.md 
+ 1020  git commit -m "third commit"
+ 1021  git log
+ 1022  git checkout 3e4cce5f71056e0b879d2a1b435c7369d690c729
+ 1023  cat README.md 
+ 1024  git checkout master
+ 1025  cat README.md 
+ 1026  git brach
+ 1027  git branch
+ 1028  git checkout -b milkshake flavours
+ 1029  git checkout -b milkshake-flavours
+ 1030  git branch
+ 1031  nano milkshakes
+ 1032  git status
+ 1033  nano milkshakes.md
+ 1034  git add milkshakes
+ 1035  git rm milkshakes 
+ 1036  git rm --cached milkshakes 
+ 1037  rm milkshakes
+ 1038  ls
+ 1039  git add milkshakes.md 
+ 1040  git commit -m "added initial flavours"
+ 1041  git log
+ 1042  git checkout master
+ 1043  git checkout -b history
+ 1044  git branch
+ 1045  git log
+ 1046  history > history.txt
+ 1047  ls
+ 1048  git add history.txt 
+ 1049  git commit -m "added history
+ 1050  "
+ 1051  git log
+ 1052  git checkout m
+ 1053  git checkout milkshake
+ 1054  git checkout milkshakes
+ 1055  git branch
+ 1056  git branch milkshake-flavours 
+ 1057  git checkout milkshake-flavours 1
+ 1058  git checkout milkshake-flavours 
+ 1059  git log
+ 1060  nano README.md 
+ 1061  git add README.md 
+ 1062  git commit -m "random readme changes"
+ 1063  git checkout history 
+ 1064  cat README.md 
+ 1065  rm README.md 
+ 1066  echo "booya" > README.md
+ 1067  git add README.md 
+ 1068  git commit -m "rewrote readme"
+ 1069  git checkout master
+ 1070  ls
+ 1071  git log
+ 1072  git checkout milkshake-flavours 
+ 1073  ls
+ 1074  git log
+ 1075  git barnch
+ 1076  git branch
+ 1077  git checkout history
+ 1078  ls
+ 1079  git log
+ 1080  git checkout master
+ 1081  git merge milkshake-flavours 
+ 1082  ls
+ 1083  git log
+ 1084  git checkout history 
+ 1085  git log
+ 1086  git checkout main
+ 1087  git checkout master
+ 1088  git merge history 
+ 1089  cat README.md 
+ 1090  git log -merge
+ 1091  git log --merge
+ 1092  git diff README.md
+ 1093  git merge history 
+ 1094  git checkout history
+ 1095  git branch
+ 1096  git checkout history
+ 1097  nano README.md 
+ 1098  git merge history 
+ 1099  cat README.md 
+ 1100  git add README.md 
+ 1101  git commit -m "solve conflict"
+ 1102  git merge history 
+ 1103  git log
+ 1104  git remote add origin git@github.com:cleovilakazi/git-basic-excersises.git
+ 1105  git branch -M master
+ 1106  git push - origin main
+ 1107  git push -u origin main
+ 1108  git push -u origin master
+ 1109  ssh-keygen -t rsa -C "cleopathrastudies@gmail.com"
+ 1110  y
+ 1111  ssh-keygen -t rsa -C "cleopathrastudies@gmail.com"
+ 1112  cat ~/.ssh/id_rsa.pub
+ 1113  git remote add origin git@github.com:cleovilakazi/git-basic-excersises.git
+ 1114  git branch -M main
+ 1115  git push -u origin master
+ 1116  git push -u origin main
+ 1117  cd ../
+ 1118  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1119  git branch
+ 1120  cd a-repo-to-clone/
+ 1121  git branch
+ 1122  git log
+ 1123  git branch -a
+ 1124  git checkout -b project/git-basic-exercises
+ 1125  git remote -v
+ 1126  git log
+ 1127  cd 
+ 1128  cd git-basic-exercise/
+ 1129  git log
+ 1130  cd 
+ 1131  mkdir this-will-be-another-repo
+ 1132  git init
+ 1133  cd
+ 1134  cd this-will-be-another-repo/
+ 1135  git init
+ 1136  touch README.md
+ 1137  git add README.md 
+ 1138  [2~git comm[Cit "initialcommit 2"
+ 1139  git commit -m "initial commit 2"
+ 1140  git log
+ 1141  touch ignore-me.db
+ 1142  git status
+ 1143  nano ignore-me.db 
+ 1144  nano .gitignore
+ 1145  git status
+ 1146  mkdir large-directory-that-should-be-local-only
+ 1147  cd large-directory-that-should-be-local-only/
+ 1148  touch readme.md
+ 1149  nano readme.md 
+ 1150  rm readme.md 
+ 1151  cd ..
+ 1152  rmdir large-directory-that-should-be-local-only/
+ 1153  ls
+ 1154  cd ..
+ 1155  mkdir large-directory-that-should-be-local-only
+ 1156  cd large-directory-that-should-be-local-only/
+ 1157  git status
+ 1158  touch readme.md
+ 1159  git status
+ 1160  cd
+ 1161  git status
+ 1162  mkdir large-directory-that-should-be local-only
+ 1163  cd
+ 1164  cd large-directory-that-should-be/
+ 1165  cd
+ 1166  rmdir large-directory-that-should-be/
+ 1167  mkdir large-directory-that-should-be-local-only
+ 1168  git status
+ 1169  cd large-directory-that-should-be-local-only/
+ 1170  touch readme.md
+ 1171  git status
+ 1172  nano .gitignore
+ 1173  git status
+ 1174  git add .gitignore 
+ 1175  git commit -m "added .gitignore
+ 1176  "
+ 1177  git remote add origin git@github.com:cleovilakazi/git-basic-excersises.git
+ 1178  git branch -M main
+ 1179  git push -u origin main
+ 1180  cd
+ 1181  git git-basic-exercise/
+ 1182  cd git-basic-exercise/
+ 1183  git branch
+ 1184  git log
+ 1185  cd
+ 1186  ls
+ 1187  cd large-directory-that-should-be-local-only/
+ 1188  ls
+ 1189  git remote add origin git@github.com:cleovilakazi/lage-directory-that-should-be-local-only.git
+ 1190  git branch -M main
+ 1191  git push -u origin main
+ 1192  git remote add origin git@github.com:cleovilakazi/lage-directory-that-should-be-local-only.git
+ 1193  git push -u origin main
+ 1194  git branch -M main
+ 1195  git push -u origin main
+ 1196  git branch
+ 1197  git log
+ 1198  git commit -m "almost there"
+ 1199  git add .gitignore
+ 1200  git commit -m "almost there"
+ 1201  git status
+ 1202  cat.gitignore
+ 1203  cat .gitignore
+ 1204  git commit -m "almost there"
+ 1205  mkdir git-basic-exercises
+ 1206  cd git-basic-exercises/
+ 1207  ls -a
+ 1208  git init
+ 1209  ls -a
+ 1210  git status
+ 1211  touch README.md
+ 1212  ls -a
+ 1213  ls
+ 1214  git log
+ 1215  git add.
+ 1216  git add .
+ 1217  git status
+ 1218  git commit -m "initial commit"
+ 1219  git log
+ 1220  nano README.md 
+ 1221  cat README.md 
+ 1222  git status
+ 1223  git add .
+ 1224  git status
+ 1225  git commit -m "second commit"
+ 1226  nano README.md 
+ 1227  git add .
+ 1228  git commit -m "third commit"
+ 1229  git log
+ 1230  git checkout 23e50da21115b595abdd433e325c2597e5a130fe
+ 1231  cat README.md 
+ 1232  git checkout master
+ 1233  cat README.md 
+ 1234  git branch
+ 1235  git checkout -b milkshake-flavours
+ 1236  git branch
+ 1237  nano milkshakes.md
+ 1238  git status
+ 1239  git add .
+ 1240  git commit -m "added initial flavours"
+ 1241  git log
+ 1242  git checkout master 
+ 1243  git log
+ 1244  git checkout -b history 
+ 1245  git log
+ 1246  git branch
+ 1247  history > history.txt
